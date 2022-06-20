@@ -1,0 +1,30 @@
+[
+  {
+    "device": "Samsung Galaxy S20 Plus",
+    "os_version": "10.0"
+  },
+  {
+    "device": "Samsung Galaxy S20",
+    "os_version": "10.0"
+  },
+  {
+    "device": "Samsung Galaxy A51",
+    "os_version": "10.0"
+  },
+  {
+    "device": "Samsung Galaxy S21",
+    "os_version": "11.0"
+  },
+  {
+    "device": "Samsung Galaxy S21 Plus",
+    "os_version": "11.0"
+  },
+  {
+    "device": "Google Pixel 4",
+    "os_version": "11.0"
+  },
+  {
+    "device": "Samsung Galaxy S21",
+    "os_version": "12.0"
+  }
+]

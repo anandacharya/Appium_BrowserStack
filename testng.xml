@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="classes">  <!-- parallel="none","tests","classes","methods" -->
+<listeners>
+    <listener class-name="listeners.TestListener"/>
+</listeners>
+    <test name="iOSAutomation">
+        <parameter name="platformName" value="iOS"/>
+        <classes>
+            <class name="tests.SampleTest1"/>
+            <class name="tests.SampleTest2"/>
+        </classes>
+    </test>
+<!-- <test name="AndroidAutomation">
+        <parameter name="platformName" value="android"/>
+        <classes>
+            <class name="tests.SampleTest1"/>
+            <class name="tests.SampleTest2"/>
+        </classes>
+    </test> -->
+</suite> <!-- Suite -->
